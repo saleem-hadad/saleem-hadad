@@ -6,7 +6,7 @@ Saleem graduated from International Islamic University Malaysia (IIUM) with a me
 
 I'm currently working as a software engineer and product leader at [Laimoon, Dubai](https://Laimoon.com)
 
-![image](https://github.com/saleem-hadad/saleem-hadad/blob/master/dino.gif)
+![image](https://github.com/saleem-hadad/saleem-hadad/blob/main/dino.gif)
 
 - 🔭 I’m currently working on [LaRecipe](https://larecipe.binarytorch.com.my/)
 - 📫 How to reach me: contact@saleem.dev
