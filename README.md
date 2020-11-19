@@ -8,5 +8,10 @@ I'm currently working as a software engineer and product leader at [Laimoon, Dub
 
 ![image](https://github.com/saleem-hadad/saleem-hadad/blob/main/dino.gif)
 
+### Github Stats
+
+<a href="https://github.com/saleem-hadad"><img src="https://github-readme-stats.vercel.app/api?username=saleem-hadad&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleem-hadad&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+
+
 - 🔭 I’m currently working on [LaRecipe](https://larecipe.binarytorch.com.my/)
 - 📫 How to reach me: contact@saleem.dev
