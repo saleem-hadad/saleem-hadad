@@ -11,6 +11,7 @@ Saleem graduated from International Islamic University Malaysia (IIUM) with a me
 <a href="https://github.com/saleem-hadad"><img src="https://github-readme-stats.vercel.app/api?username=saleem-hadad&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleem-hadad&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
 
-- 🔭 I’m currently working on [Laimoon virtaul classes product](http://laimoon.com/), [LaRecipe](https://larecipe.binarytorch.com.my/), and many other projects.
-- 🔏 I write about web development: [saleem.dev](https://saleem.dev)
+- 🔭 I’m currently working on [Laimoon virtaul classes product](http://laimoon.com/) and [LaRecipe](https://larecipe.binarytorch.com.my/).
+- 🎓 I teach [web development live](https://courses.laimoon.com/course/the-complete-2021-web-development-guidance).
+- 🔏 I write about software egineering and web development: [saleem.dev](https://saleem.dev)
 - 📫 How to reach me: contact[at]saleem.dev
