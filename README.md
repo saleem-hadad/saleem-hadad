@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👨‍👩‍👧 Cool husband/father with cool wife and daughter ❤️
-- 💻 Software Engineer II at [Talabat](https://www.talabat.com/) ❤️
 - 🧠 A young entrepreneur.
 - 📢 Public speaker.
 - 🤖 Good knowledge of micro-services and scalable web architecture.
