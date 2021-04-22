@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 👨‍👩‍👧 Cool husband/father with cool wife and daughter ❤️
+- 👨‍👩‍👧 Husband/father with lovely wife and daughter ❤️
+- 💻 Software Engineer at [Talabat](https://talabat.com) ❤️
 - 🧠 A young entrepreneur.
 - 📢 Public speaker.
 - 🤖 Good knowledge of micro-services and scalable web architecture.
